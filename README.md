@@ -3,7 +3,7 @@
 Repositório referente ao Checkpoint 1 da disciplina.
 
 ## 🔗 Repositório original
-[https://github.com/REPOSITORIO-DO-PROFESSOR](https://github.com/3ES-CSharp/Jokempo-2026)
+https://github.com/3ES-CSharp/Jokempo-2026
 
 ## 👨‍💻 Integrantes
 
