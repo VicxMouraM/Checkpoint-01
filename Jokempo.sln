@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+# Visual Studio Version 18
+VisualStudioVersion = 18.4.11612.150
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jokempo", "Jokempo\Jokempo.csproj", "{F8A4F434-4031-4A3E-AF73-40A7422CB2D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jokempo.Core", "..\Jokempo.Core\Jokempo.Core.csproj", "{CCA73353-F3A8-40F0-BFC7-AC0059E68AC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jokempo.WinForms", "..\Jokempo.WinForms\Jokempo.WinForms.csproj", "{A581EC7E-BE59-43A5-8BED-0E6A9BA11C78}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +19,19 @@ Global
 		{F8A4F434-4031-4A3E-AF73-40A7422CB2D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8A4F434-4031-4A3E-AF73-40A7422CB2D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8A4F434-4031-4A3E-AF73-40A7422CB2D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCA73353-F3A8-40F0-BFC7-AC0059E68AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA73353-F3A8-40F0-BFC7-AC0059E68AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA73353-F3A8-40F0-BFC7-AC0059E68AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA73353-F3A8-40F0-BFC7-AC0059E68AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A581EC7E-BE59-43A5-8BED-0E6A9BA11C78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A581EC7E-BE59-43A5-8BED-0E6A9BA11C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A581EC7E-BE59-43A5-8BED-0E6A9BA11C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A581EC7E-BE59-43A5-8BED-0E6A9BA11C78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {839D1C94-A388-48A8-A502-D98866633C56}
 	EndGlobalSection
 EndGlobal
