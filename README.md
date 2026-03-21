@@ -1,6 +1,6 @@
-# CHECKPOINT 1 – C#
+# CHECKPOINT 2 – C#
 
-Repositório referente ao Checkpoint 1 da disciplina.
+Repositório referente ao Checkpoint 2 da disciplina.
 
 ## 🔗 Repositório original
 https://github.com/3ES-CSharp/Jokempo-2026
